@@ -1,3 +1,0 @@
-return {
-  "itspriddle/vim-shellcheck"
-}
